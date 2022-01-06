@@ -18,6 +18,15 @@ What you'll need to get started:
 -OR-
 - [REPLIT](https://replit.com/languages/csharp) (No installation/setup needed)
 
+What you're building:
+- [ ] C# console application
+- [ ] Control options that show available player Moves (i.e. Rock, Paper, or Scissors)
+- [ ] CPU Player randomly generates a move, also based on the control options
+- [ ] Program compares the Player and CPU Player inputs and prints the game result to the console (i.e. You win)
+
+[View an Example](https://drive.google.com/file/d/1mFuVFWiAbU3ttVGaiEm8hJrH9ckNRn3l/view?usp=sharing)
+
+
 ## Create a New Project
 blah blah blah
 
