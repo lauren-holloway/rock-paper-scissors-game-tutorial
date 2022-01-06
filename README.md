@@ -18,20 +18,20 @@ What you'll need to get started:
 -OR-
 - [REPLIT](https://replit.com/languages/csharp) (No installation/setup needed)
 
-### Create a New Project
+## Create a New Project
 blah blah blah
 
-### Welcome the Player to the Game
+## Welcome the Player to the Game
 blah blah blah
 
-### Let the Player Choose a Move
+## Let the Player Choose a Move
 blah blah blah
 
-### Randomly Generate a Move for the CPU Player
+## Randomly Generate a Move for the CPU Player
 blah blah blah
 
-### Create Conditions for Winning and Losing
+## Create Conditions for Winning and Losing
 blah blah blah
 
-### BuildUp Challenge
+## BuildUp Challenge
 blah blah blah
