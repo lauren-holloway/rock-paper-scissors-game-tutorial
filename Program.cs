@@ -20,7 +20,6 @@ public class RockPaperScissorsGameTutorial
         Random random = new Random();
         int cpuMove = random.Next(1, 4);
         
-
         //Conditions for choosing a winner
         if(playerMove == cpuMove)
         {
@@ -54,6 +53,5 @@ public class RockPaperScissorsGameTutorial
         {
             Console.WriteLine("Invalid move.");
         }
-
     }
 }
