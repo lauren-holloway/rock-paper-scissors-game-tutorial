@@ -42,7 +42,7 @@ public class RockPaperScissorsGameTutorial
         {
             Console.WriteLine("Scissors! You lose...");
         }
-        else if(playerMove == 3 && playerMove == 1)
+        else if(playerMove == 3 && cpuMove == 1)
         {
             Console.WriteLine("Rock! You lose...");
         }
