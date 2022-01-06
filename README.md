@@ -14,5 +14,6 @@ Topics covered include:
 
 What you'll need to get started:
 - [Visual Studio installed](https://visualstudio.microsoft.com/free-developer-offers/) (not to be confused with Visual Studio Code)
-- OR -
-- [REPLIT (No installation/setup needed)](https://replit.com/languages/csharp)
+
+-OR-
+- [REPLIT](https://replit.com/languages/csharp) (No installation/setup needed)
