@@ -42,5 +42,6 @@ blah blah blah
 ## Create Conditions for Winning and Losing
 blah blah blah
 
-## BuildUp Challenge
-blah blah blah
+## BuildUp Challenges
+- Add a `for loop` so the game will automatically play 3 times
+  - [View Code Solution](https://github.com/lauren-holloway/rock-paper-scissors-game-tutorial/blob/forloop/README.md)
