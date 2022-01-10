@@ -43,5 +43,6 @@ blah blah blah
 blah blah blah
 
 ## BuildUp Challenges
-- Add a `for loop` so the game will automatically play 3 times
+- [ ] Add a `for loop` so the game will automatically play 3 times
+- [ ] Add a variable to keep the score for the best 2 out of 3 rounds and declare an overall winner
   - [View Code Solution](https://github.com/lauren-holloway/rock-paper-scissors-game-tutorial/blob/forloop/README.md)
